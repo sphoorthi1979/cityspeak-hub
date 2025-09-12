@@ -39,6 +39,20 @@ export default {
           DEFAULT: "hsl(var(--accent))",
           foreground: "hsl(var(--accent-foreground))",
         },
+        success: {
+          DEFAULT: "hsl(var(--success))",
+          foreground: "hsl(var(--success-foreground))",
+        },
+        government: {
+          blue: "hsl(var(--government-blue))",
+          "blue-dark": "hsl(var(--government-blue-dark))",
+          "blue-light": "hsl(var(--government-blue-light))",
+          gray: "hsl(var(--government-gray))",
+          "gray-light": "hsl(var(--government-gray-light))",
+          "gray-dark": "hsl(var(--government-gray-dark))",
+        },
+        saffron: "hsl(var(--saffron))",
+        "green-india": "hsl(var(--green-india))",
         popover: {
           DEFAULT: "hsl(var(--popover))",
           foreground: "hsl(var(--popover-foreground))",
